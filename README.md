@@ -6,6 +6,8 @@ https://github.com/aws/amazon-sagemaker-examples/tree/main
 
 https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#home:
 
+
+# Pretrained  
 https://sagemaker.readthedocs.io/en/stable/doc_utils/pretrainedmodels.html
 
 
