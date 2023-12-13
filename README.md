@@ -4,7 +4,6 @@ https://sagemaker.readthedocs.io/en/stable/overview.html#train-a-model-with-the-
 
 https://github.com/aws/amazon-sagemaker-examples/tree/main
 
-https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#home
 
 
 # Pretrained  
@@ -19,3 +18,6 @@ https://us-east-2.console.aws.amazon.com/ecr/private-registry/repositories?regio
 
 # Cloud Compute (EC2)
 https://us-east-2.console.aws.amazon.com/ec2/home?region=us-east-2#Home:
+
+# Cloud Watch
+https://us-east-2.console.aws.amazon.com/cloudwatch/home?region=us-east-2#home:
